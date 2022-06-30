@@ -267,6 +267,7 @@ class _CreateResourcePageState extends State<CreateResourcePage> {
                               },
                             ),
                           ),
+                          Container(height: 400,)
                         ],
                       ),
                     ),
