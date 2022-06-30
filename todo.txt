@@ -1,4 +1,0 @@
-Gestionnaire d'autorisation :
-    Créer une classe de gestion qui permet de relier les routes :
-    show resource -> show related comments
-    If(user.role || user.id)
